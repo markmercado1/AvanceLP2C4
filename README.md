@@ -1,2 +1,1 @@
-# AvanceLP2C4
-delovpment of sessions
+# LP2-2025-GUS1
